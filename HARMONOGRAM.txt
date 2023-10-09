@@ -2,16 +2,35 @@ HARMONOGRAM
 
 tydzien 3:
 
+	1) utworzenie widoku glownego zawierajacego 4 bloki macierzy Eisenhowera
+	2) utworzenie przyciskow dodania zadania, ustawien, zadan wykonanych
+
 tydzien 4:
+
+	1) utworzenie widoku dla dodawania zadania
+	2) utworzenie widoku dla ustawien
+	3) utworzenie widoku dla zadan wykonanych
 
 tydzien 5:
 
+	1) dodanie funkcjonalnosci w widoku "dodaj zadanie" (dodanie do bazy danych)
+	2) wyswietlanie zadania w widoku glownym
+
 tydzien 6:
+
+	1) dodanie funkcjonalnosci w widoku "ustawienia" (zmiana kolorów macierzy)
+	2) mozliwosc edycji lub przeniesienia zadania do folderu "wykonane"
 
 tydzien 7:
 
+	1) dodanie funkcjonalnosci w widoku "zadania wykonane" (mozliwosc trwalego usuniecia lub podgladu)
+	2) dodanie powiadomien
+
 tydzien 8:
+
+	1) dodanie mozliwosci ustawien powiadomien w widoku "ustawienia" (czy przypomnienie wyslac w momencie "zakonczenia" zadania, czy wczesniej)
 
 tydzien 9:
 
-tydzien 10:
+	1) 
+
