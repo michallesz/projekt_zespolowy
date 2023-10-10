@@ -1,5 +1,13 @@
 HARMONOGRAM
 
+tydzien 1:
+	
+	1) wybór technologii
+
+tydzien 2:
+
+	1) utworzenie harmonogramu pracy
+
 tydzien 3:
 
 	1) utworzenie widoku glownego zawierajacego 4 bloki macierzy Eisenhowera
