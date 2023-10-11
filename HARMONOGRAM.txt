@@ -36,7 +36,7 @@ tydzien 7:
 
 tydzien 8:
 
-	1) dodanie mozliwosci ustawien powiadomien w widoku "ustawienia" (czy przypomnienie wyslac w momencie "zakonczenia" zadania, czy wczesniej)
+	1)
 
 tydzien 9:
 
